@@ -4,7 +4,7 @@
 This is a simple report form to monitor a dairy farm - Brookside Dairies.
 ## Setup/Installation Requirements
 * Clone the repository to your computer from 
-        https://github.com/Peris-Wambui/agriplus_project.git
+       https://github.com/Peris-Wambui/dairy-farm-monitor.git
 * Open the project using your preferred code editor, preferably Visual studio Code.
 * Open the project using a web browser, preferably Google Chrome.
 ## Known Bugs
