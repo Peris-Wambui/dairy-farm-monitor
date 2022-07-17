@@ -35,44 +35,44 @@ function totalProduction() {
     console.log(februaryIncome);
     document.getElementById("februaryIncome").innerHTML += "Your income for february is Ksh " + februaryIncome
 
-    let marchIncome = totalDailyLiters * 45 * 29;
+    let marchIncome = totalDailyLiters * 45 * 31;
     console.log(marchIncome);
     document.getElementById("marchIncome").innerHTML += "Your income for march is Ksh " + marchIncome
 
 
-    let aprilIncome = totalDailyLiters * 45 * 29;
+    let aprilIncome = totalDailyLiters * 45 * 30;
     console.log(aprilIncome);
     document.getElementById("aprilIncome").innerHTML += "Your income for april is Ksh " + aprilIncome
 
-    let mayIncome = totalDailyLiters * 45 * 29;
+    let mayIncome = totalDailyLiters * 45 * 31;
     console.log(mayIncome);
     document.getElementById("mayIncome").innerHTML += "Your income for may is Ksh " + mayIncome
 
-    let juneIncome = totalDailyLiters * 45 * 29;
+    let juneIncome = totalDailyLiters * 45 * 30;
     console.log(juneIncome);
     document.getElementById("juneIncome").innerHTML += "Your income for june is Ksh " + juneIncome
 
-    let julyIncome = totalDailyLiters * 45 * 29;
+    let julyIncome = totalDailyLiters * 45 * 31;
     console.log(julyIncome);
     document.getElementById("julyIncome").innerHTML += "Your income for july is Ksh " + julyIncome
 
-    let augustIncome = totalDailyLiters * 45 * 29;
+    let augustIncome = totalDailyLiters * 45 * 31;
     console.log(augustIncome);
     document.getElementById("augustIncome").innerHTML += "Your income for august is Ksh " + augustIncome
 
-    let septemberIncome = totalDailyLiters * 45 * 29;
+    let septemberIncome = totalDailyLiters * 45 * 30;
     console.log(septemberIncome);
     document.getElementById("septemberIncome").innerHTML += "Your income for september is Ksh " + septemberIncome 
 
-    let octoberIncome = totalDailyLiters * 45 * 29;
+    let octoberIncome = totalDailyLiters * 45 * 31;
     console.log(octoberIncome);
     document.getElementById("octoberIncome").innerHTML += "Your income for october is Ksh " + octoberIncome
 
-    let novemberIncome = totalDailyLiters * 45 * 29;
+    let novemberIncome = totalDailyLiters * 45 * 30;
     console.log(novemberIncome);
     document.getElementById("novemberIncome").innerHTML += "Your income for november is Ksh " + novemberIncome
 
-    let decemberIncome = totalDailyLiters * 45 * 29;
+    let decemberIncome = totalDailyLiters * 45 * 31;
     console.log(decemberIncome);
     document.getElementById("decemberIncome").innerHTML += "Your income for december is Ksh " + decemberIncome
 
