@@ -48,3 +48,10 @@
     font-size: medium;
     margin-bottom: 20px;
 }
+button{
+    background-color: blue;
+    height: 4vh;
+    width: 20%;
+    margin-left: 75%;
+    margin-top: 40%;
+}
